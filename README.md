@@ -5,8 +5,9 @@ This simple task scheduler allows users to manage tasks by adding, removing, lis
    Make sure you have a C compiler installed on your system to compile and run the program.
    
 # Getting Started
-# How to Use
-1. Clone the repository to your local machine. 
+
+# How to Use 
+1.Clone the repository to your local machine. 
 git clone https://github.com/Adithya-2008/task-scheduler.git
 Compile the program.
 
