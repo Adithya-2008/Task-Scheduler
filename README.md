@@ -17,17 +17,20 @@ Compile the program.
 ./task_scheduler
 
 # Usage
-Follow the on-screen instructions to perform various tasks:
 
-  Add Task: Add a new task with a name, deadline, category, and priority.
-  
-  Remove Task: Remove a task by specifying its ID.
-  
-  List Tasks: View the list of tasks along with their details and deadlines.
-  
-  Sort Tasks by Priority: Rearrange tasks in ascending order based on priority.
-  
-  Quit: Exit the program.
+The program provides a simple menu-driven interface for managing tasks.
+
+# Adding a Task
+1) Choose option 1 from the menu.
+2) Enter the task details as prompted, including the task name, deadline (in YYYY MM DD format), category (1 for Assignment, 2 for Project, 3 for Exam), and priority (1 to 5).
+# Removing a Task
+1) Choose option 2 from the menu.
+2) Enter the ID of the task you want to remove.
+# Listing Tasks
+1) Choose option 3 from the menu to display a list of tasks along with their details, including name, deadline, category, priority, and time left until the deadline.
+
+# Sorting Tasks by Priority
+1) Choose option 4 from the menu to sort tasks by priority.
   
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
