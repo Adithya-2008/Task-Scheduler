@@ -31,4 +31,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 # Output
 This program will print the entered task in a prioritized manner
 # How to exit the program 
- choose option file to exit
+ choose option 5 to exit
