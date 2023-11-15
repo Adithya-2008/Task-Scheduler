@@ -20,9 +20,13 @@ Compile the program.
 Follow the on-screen instructions to perform various tasks:
 
   Add Task: Add a new task with a name, deadline, category, and priority.
+  
   Remove Task: Remove a task by specifying its ID.
+  
   List Tasks: View the list of tasks along with their details and deadlines.
+  
   Sort Tasks by Priority: Rearrange tasks in ascending order based on priority.
+  
   Quit: Exit the program.
   
 # Contributing
